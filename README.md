@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 A sleek and responsive Spotify Clone built using HTML, CSS, and JavaScript, replicating the core user interface and functionalities of Spotify.
-Link: https://spotify-aoyvhk725-s-a-parthivs-projects.vercel.app
+Link: https://spotify-cyan-theta.vercel.app
 
 ## 🚀 Features
 🎶 Play, Pause, and Skip Tracks
