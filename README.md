@@ -1,7 +1,7 @@
 # 🎵 Spotify Clone
 A sleek and responsive Spotify Clone built using HTML, CSS, and JavaScript, replicating the core user interface and functionalities of Spotify.
 
-# 🚀 Features
+## 🚀 Features
 🎶 Play, Pause, and Skip Tracks
 Enjoy seamless control over the audio playback.
 
