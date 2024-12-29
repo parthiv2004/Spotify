@@ -20,5 +20,17 @@ Fully optimized for desktop, tablet, and mobile devices.
 
 ## 🛠️ Technologies Used
 HTML: For structuring the application.
+
 CSS: For styling and layout, including animations.
+
 JavaScript: For interactive features and audio playback.
+
+
+## 🎯 Project Structure
+.
+├── index.html       # Main HTML file
+├── styles.css       # Styling file for the project
+├── script.js        # JavaScript for interactivity
+├── assets/          # Folder containing images and audio files
+└── README.md        # Project documentation
+
