@@ -27,17 +27,8 @@ JavaScript: For interactive features and audio playback.
 
 
 ## 🎯 Project Structure
-.
+![Screenshot 2024-12-29 181059](https://github.com/user-attachments/assets/393bd7b5-1910-4c05-8569-86fe22ae0cab)
 
-├── index.html           # Main HTML file
-
-├── styles.css           # Styling file for the project
-
-├── script.js            # JavaScript for interactivity
-
-├── assets/              # Folder containing images and audio files
-
-└── README.md            # Project documentation
 
 ## 📸 Screenshots
 Home Page
