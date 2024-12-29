@@ -28,13 +28,14 @@ JavaScript: For interactive features and audio playback.
 
 ## 🎯 Project Structure
 .
-├── index.html       # Main HTML file
 
-├── styles.css       # Styling file for the project
+├── index.html           # Main HTML file
 
-├── script.js        # JavaScript for interactivity
+├── styles.css           # Styling file for the project
 
-├── assets/          # Folder containing images and audio files
+├── script.js            # JavaScript for interactivity
 
-└── README.md        # Project documentation
+├── assets/              # Folder containing images and audio files
+
+└── README.md            # Project documentation
 
