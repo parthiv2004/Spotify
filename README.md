@@ -39,3 +39,7 @@ JavaScript: For interactive features and audio playback.
 
 └── README.md            # Project documentation
 
+## 📸 Screenshots
+Home Page
+![Screenshot 2024-12-29 180413](https://github.com/user-attachments/assets/0c4b86d2-494f-4390-83d8-61f7c90b88de)
+
