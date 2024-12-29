@@ -43,3 +43,14 @@ JavaScript: For interactive features and audio playback.
 Home Page
 ![Screenshot 2024-12-29 180413](https://github.com/user-attachments/assets/0c4b86d2-494f-4390-83d8-61f7c90b88de)
 
+## 🔧 How to Run Locally
+1. Clone the repository:
+
+git clone https://github.com/your-username/spotify-clone.git
+
+2. Navigate to the project folder:
+   
+cd spotify
+
+3. Open index.html in your browser.
+
