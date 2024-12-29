@@ -17,3 +17,8 @@ Designed to closely resemble Spotify’s aesthetic.
 📱 Responsive Design
 
 Fully optimized for desktop, tablet, and mobile devices.
+
+## 🛠️ Technologies Used
+HTML: For structuring the application.
+CSS: For styling and layout, including animations.
+JavaScript: For interactive features and audio playback.
