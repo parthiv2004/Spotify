@@ -45,3 +45,18 @@ Home Page
 
 3. Open index.html in your browser.
 
+## 💡 Future Enhancements
+Integrate a backend for real-time playlists.
+
+Add user authentication and profiles.
+
+Include advanced music streaming features.
+
+## 🖋️ Authors
+Your Name - https://github.com/parthiv2004
+
+## 🌟 Show Your Support
+If you like this project, give it a ⭐️ on https://github.com/parthiv2004/Spotify.git
+
+
+
